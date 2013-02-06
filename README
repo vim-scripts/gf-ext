@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4427
+
+gf-ext allows you to specify "handlers" for filetypes based on a regular expression you supply (often specifying a file extension).  This is useful when you want to view or edit files which are referenced in source code but aren't necessarily source text files themselves; for example `<img>` tags in HTML, source asset files, and so on.
+
+Full details available on the plugin's github page at http://github.com/dpwright/vim-gf-ext or in the plugin's documentation.  Please report any issues or submit any contributions through github.
